@@ -136,11 +136,5 @@ By completing this assignment, I gained:
 
 ---
 
-##  Assignment Status
-
-✔ Successfully Completed  
-✔ Tested and Verified  
-✔ Uploaded to GitHub  
-
 
 This assignment marks the beginning of my 12-week Data Science Internship learning journey.
